@@ -84,6 +84,7 @@ h1 {
 @media (max-width: 500px) {
   h1 {
     font-size: 16vw;
+    font-family: ARFONT;
   }
 }
 
