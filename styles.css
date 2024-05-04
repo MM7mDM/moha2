@@ -1,7 +1,8 @@
 @import url("https://rsms.me/inter/inter-ui.css");
+
 @font-face {
-  font-family: 'ARFONT';
-  src: url(Pandaify-3d441ad59fc2f296acece200a2143236.ttf);
+  font-family: "ARFONT";
+  src: url(Pandaify-3d441ad59fc2f296acece200a2143236.ttf) format("truetype");
 }
 
 body {
@@ -78,13 +79,13 @@ h1 {
   display: block;
   font-size: 40px;
   margin: 0 0 24px 0;
-  font-family: 'ARFONT';
+  font-family: "ARFONT", sans-serif;
 }
 
 @media (max-width: 500px) {
   h1 {
     font-size: 16vw;
-    font-family: 'ARFONT';
+    font-family: "ARFONT", sans-serif;
   }
 }
 
