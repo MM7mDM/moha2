@@ -78,6 +78,7 @@ h1 {
   display: block;
   font-size: 80px;
   margin: 0 0 24px 0;
+  font-family: ARFONT;
 }
 
 @media (max-width: 500px) {
