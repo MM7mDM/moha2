@@ -48,18 +48,3 @@ p {
   text-align: center;
   color: #fff;
 }
-
-button {
-    border-radius: 8px ;
-    background-image: linear-gradient(to right, #8B0000, #8B0000);
-    border-color: #990000;
-    padding: 0px;
-    margin:3px;
-    height:140px;
-    width: 110px;
-	
-    }
-
-.button {text-align:center;} 
-{display:block;}
-button:active{border:2px solid #f00;} 
