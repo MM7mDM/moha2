@@ -45,8 +45,12 @@ p {
   color: #fff;
 }
 button {
-border-radius:8px;
-height="100px"
-width="90px"
-vspace="5px"
+  border-radius: 8px ;
+	background-color: #8B0000;
+  border-color: #990000;
+  font-family: "ARFONT", sans-serif;
+	padding: 0px;
+  margin:3px;
+  height:140px;
+  width: 110px;
 }
