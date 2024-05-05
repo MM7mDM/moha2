@@ -54,3 +54,8 @@ button{
     width: 110px;
 	
     }
+
+	
+.button {text-align:center;} 
+{display:block;}
+button:active{border:2px solid #f00;} 
