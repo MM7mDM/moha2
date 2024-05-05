@@ -44,3 +44,9 @@ p {
   text-align: center;
   color: #fff;
 }
+button {
+border-radius:8px;
+height="100px"
+width="90px"
+vspace="5px"
+}
