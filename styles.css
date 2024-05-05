@@ -28,13 +28,9 @@ h1 {
 }
 
 h2 {
-	text-align: center;
-	margin-top: 0.5px;
-	font-size: 12px;
-	color: #fff;
-	font-family: "ARFONT", Sans-serif;
-	font-weight: bold;
-	}
+  font-size: 2em;
+  font-family: "ARFONT", sans-serif;
+  font-weight: bold;
 }
 h1,
 h2 {
