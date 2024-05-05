@@ -22,14 +22,14 @@ body {
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 h1 {
-  font-size: 6em;
-  font-family: "Roblox", sans-serif;
+  font-size: 2em;
+  font-family: "ARFONT", sans-serif;
   font-weight: bold;
 }
 
 h2 {
   font-family: "ARFONT", sans-serif;
-  font-size: 7em;
+  font-size: 4em;
 }
 h1,
 h2 {
@@ -42,4 +42,7 @@ p {
   max-width: 50%;
   text-align: center;
   color: #fff;
+}
+Br {
+  font-family: "ARFONT", sans-serif;
 }
